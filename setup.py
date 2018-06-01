@@ -8,7 +8,7 @@ setup(
     version='0.0.1',
     author="Kentaro Matsuzaki",
     author_email="kentaro0919@gmail.com",
-    description='A Utility Tools',
+    description='A Utility Tools for Akamai Open API',
     long_description=long_description,
     url="https://github.com/kentaro0919/tokima",
     classifiers=['Development Status :: 3 - Alpha',
